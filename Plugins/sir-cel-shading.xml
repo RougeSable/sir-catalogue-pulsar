@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>RougeSable/sir-cel-shading</Id>
+  <FriendlyName>Sir Cel Shading</FriendlyName>
+  <Author>RougeSable</Author>
+  <Tooltip>Rendu bande dessin&#233;e : contours noirs et couleurs en aplats.</Tooltip>
+  <Description>Sir Cel Shading donne au jeu un rendu fa&#231;on bande dessin&#233;e : contours noirs autour des blocs, du d&#233;cor et des personnages, couleurs en aplats. Le joueur l'active ou le coupe &#224; son gr&#233; (r&#233;glages du greffon, ou /cel dans la discussion), sans relancer le jeu. Tout se passe sur sa machine : un joueur sans le greffon voit le rendu du jeu.</Description>
+  <Commit>7ae6891b18fb7681b22ae1cbcbe9645a016c0f66</Commit>
+  <SourceDirectories>
+    <Directory>Source</Directory>
+  </SourceDirectories>
+</PluginData>
