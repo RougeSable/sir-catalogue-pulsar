@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
-  <Id>RougeSable/sir-cel-shading</Id>
+  <Id>e59d49d8-ec9d-55b0-9a37-5da933d1bcdc</Id>
+  <RepoId>RougeSable/sir-cel-shading</RepoId>
   <FriendlyName>Sir Cel Shading</FriendlyName>
   <Author>RougeSable</Author>
   <Tooltip>Rendu bande dessin&#233;e : contours noirs et couleurs en aplats.</Tooltip>
