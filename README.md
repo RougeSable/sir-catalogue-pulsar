@@ -1,9 +1,9 @@
-# Catalogue Sirius pour Pulsar
+# Sirius plugin catalogue for Pulsar
 
-Les greffons côté joueur du serveur Sirius Immersion (Space Engineers), à ajouter une fois dans Pulsar.
+Client-side plugins made for the Sirius Immersion Space Engineers server, open to every player.
 
-**Dans le jeu :** Pulsar → Sources → ajouter un catalogue (hub) → `RougeSable/sir-catalogue-pulsar`. Les greffons du catalogue apparaissent ensuite dans la liste de Pulsar ; il reste à cocher ceux qu'on veut et à relancer le jeu.
+**In game:** launch Pulsar with the `-sources` option, open **Plugins** from the main menu, then **Sources** → **Hubs** → **Add Remote Hub**, and fill in GitHub User `RougeSable`, Repo Name `sir-catalogue-pulsar`, Branch Name `main`. The catalogue's plugins then show up in Pulsar's plugin list: tick the ones you want and restart the game.
 
-Tous sont facultatifs : on joue sur Sirius sans aucun d'eux.
+Every plugin here is optional and purely client-side.
 
-Ce catalogue est tenu à jour par le studio : chaque fiche de `Plugins/` pointe sur la dernière version publiée de son greffon.
+This catalogue is kept up to date automatically: each file in `Plugins/` points to the latest published version of its plugin.
