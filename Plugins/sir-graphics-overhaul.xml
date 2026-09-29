@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="GitHubPlugin">
+  <Id>3c8ca728-ddc1-5678-aaf4-4200c884acdb</Id>
+  <RepoId>RougeSable/sir-graphics-overhaul</RepoId>
+  <FriendlyName>Sir Graphics Overhaul</FriendlyName>
+  <Author>RougeSable</Author>
+  <Tooltip>A modern look for Space Engineers: six graphics options, each one on or off for you, live.</Tooltip>
+  <Description>Brings Space Engineers closer to a modern, cinematic look, on your own machine only. Six options, each one switched on or off separately while playing, with no reload: color grading (filmic curve, firmer contrast, richer colors), contact shadows (a fine dark line where surfaces meet, replacing the coarse ambient occlusion), metal reflections (smooth metal reflects what is on screen), sun rays (light shafts behind structures and through the atmosphere), sharper and softer sun shadows (above the game menu's highest quality) and indirect light (lit walls light and tint what is around them). Every option shows its cost in frames per second at your own frame rate. The HUD, menus and texts are never touched. All options off, the game renders exactly as without the plugin. Nothing is sent to the server: players without the plugin play normally. If another plugin already changes the same rendering step, this one steps aside there and tells you. Settings: the Pulsar plugin list, or type /graphics in chat.</Description>
+  <Commit>e619ba7c2709d3b6f54ac1ad00111e55a1fdb2b4</Commit>
+  <SourceDirectories>
+    <Directory>SirGraphicsOverhaul</Directory>
+  </SourceDirectories>
+</PluginData>
