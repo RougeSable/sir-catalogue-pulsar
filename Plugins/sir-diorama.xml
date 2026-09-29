@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>49c59dbc-2a72-50e3-a35e-de2b139942bf</Id>
+  <RepoId>RougeSable/sir-diorama</RepoId>
+  <FriendlyName>Sir Diorama</FriendlyName>
+  <Author>RougeSable</Author>
+  <Tooltip>The Touryst look: big pixels, reduced palette and miniature blur.</Tooltip>
+  <Description>Sir Diorama gives the game the look of The Touryst: the world drawn in big pixels with a reduced palette and a stable dither, like a miniature diorama. What you look at is sharp, the foreground and the distance are blurred, and out of focus lights spread into small discs. Each effect has its own settings (pixel size, palette colours, blur strength). Switch it on or off at any time with Alt+F2 (changeable), /diorama in the chat, or the plugin settings. The interface stays sharp and screenshots show the effect. Everything happens on your machine: players without the plugin see the game's rendering.</Description>
+  <Commit>224724ff577a99de0ddd1897f6d7f181a122ee51</Commit>
+  <SourceDirectories>
+    <Directory>Source</Directory>
+  </SourceDirectories>
+</PluginData>
