@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>9093592d-00df-5788-b9b0-1b35f36d34a0</Id>
+  <RepoId>RougeSable/sir-missions-client</RepoId>
+  <FriendlyName>Sir Missions Client [TEST 0ace6e2]</FriendlyName>
+  <Author>RougeSable</Author>
+  <Tooltip>The window of the SIRIUS missions, opened from the Missions SIRIUS block: launch or join a mission, leave for its server and come back.</Tooltip>
+  <Description>Sir Missions Client draws the window of the SIRIUS missions on the Sirius Immersion servers. Use a Missions SIRIUS block (placed by the Sir Missions Companion mod) to open it: it lists the missions offered, with their name, description, maximum of players, duration and reward, and the missions in progress with their places left. Pick the values a mission asks for and launch it, or join a mission in progress without choosing anything. The window then waits for the mission server, with the start time announced; when it is ready your game joins it by its Steam identity alone, by itself if "Leave automatically when it is ready" is checked, otherwise with a click. At the end of the mission your game goes back to the universe you left, where your character waits where you left it. Without this plugin you play as usual: only the block tells you it is needed.</Description>
+  <Commit>0ace6e2d52c9a55018ca26d68df19ea69781c4a3</Commit>
+  <SourceDirectories>
+    <Directory>Source</Directory>
+  </SourceDirectories>
+</PluginData>
