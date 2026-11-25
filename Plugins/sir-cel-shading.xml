@@ -6,7 +6,7 @@
   <Author>RougeSable</Author>
   <Tooltip>Cel shading fa&#231;on film d'animation : ombres en tons doux, contours color&#233;s, lumi&#232;re de contour et brume de distance.</Tooltip>
   <Description>Sir Cel Shading donne au jeu un air de film d'animation, dans l'esprit de Breath of the Wild ou des films du studio Ghibli : des ombres en deux ou trois tons doux, des contours fins d'une teinte plus sombre que chaque objet, un liser&#233; de lumi&#232;re sur les silhouettes vues &#224; contre-jour du soleil, et des choses lointaines qui se fondent dans le ciel. Le joueur active ou coupe l'effet quand il veut, dans les r&#233;glages du greffon ou avec /cel dans le tchat (/cel activer, /cel couper, /cel etat, /cel aide), sans relancer le jeu. Tout se passe sur la machine du joueur : un joueur sans le greffon voit le rendu propre du jeu. Sur les serveurs Sirius seulement, le greffon rapporte ses propres erreurs et les plantages du jeu au studio, sans aucune donn&#233;e sur le joueur ; ailleurs, rien n'est envoy&#233;.</Description>
-  <Commit>4a907ca81dac122d621dd774b00fe7a6c7cd2dca</Commit>
+  <Commit>110ee61e47d7ba847ce4353a76b2aa1be714fcd8</Commit>
   <SourceDirectories>
     <Directory>Source</Directory>
   </SourceDirectories>
